@@ -52,3 +52,121 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+## Build artifacts
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+
+## .NET Core specific
+project.fragment.lock.json
+project.lock.json
+artifacts/
+
+## ASP.NET Core
+wwwroot/dist/
+wwwroot/build/
+
+## User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+.nuget/
+packages/
+
+## Logs
+*.log
+Logs/
+logs/
+
+## Transient files
+*.tmp
+*.temp
+
+## Visual Studio / JetBrains Rider
+.vs/
+.idea/
+*.psess
+*.vsp
+*.vspscc
+
+## Visual Studio Code
+.vscode/
+.history/
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Test outputs (xUnit)
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Rider caches
+.idea/
+*.sln.iml
+
+## IIS / publish
+wwwroot/lib/
+PublishProfiles/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Vite build output
+dist/
+dist-ssr/
+*.local
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Temporary files
+tmp/
+temp/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: if using testing frameworks
+coverage/

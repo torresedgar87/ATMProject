@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMAPI", "ATMAPI\ATMAPI.csproj", "{FE042BA7-19A2-40EF-ADCD-661C3F38F864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATMAPI.Tests", "ATMAPI.Tests\ATMAPI.Tests.csproj", "{B5847D1F-52EA-4CA8-87CF-8AE4F55F962C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE042BA7-19A2-40EF-ADCD-661C3F38F864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE042BA7-19A2-40EF-ADCD-661C3F38F864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE042BA7-19A2-40EF-ADCD-661C3F38F864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE042BA7-19A2-40EF-ADCD-661C3F38F864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5847D1F-52EA-4CA8-87CF-8AE4F55F962C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5847D1F-52EA-4CA8-87CF-8AE4F55F962C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5847D1F-52EA-4CA8-87CF-8AE4F55F962C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5847D1F-52EA-4CA8-87CF-8AE4F55F962C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

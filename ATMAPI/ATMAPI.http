@@ -1,0 +1,6 @@
+@ATMAPI_HostAddress = http://localhost:5056
+
+GET {{ATMAPI_HostAddress}}/api/accounts/
+Accept: application/json
+
+###
