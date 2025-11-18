@@ -8,7 +8,7 @@ From inside main repo directory
 
 ```
 cd ATMAPI
-dotnet run
+dotnet run --urls "http://localhost:5056"
 ```
 
 this shoud start the API on http://localhost:5056
