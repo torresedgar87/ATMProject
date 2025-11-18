@@ -1,6 +1,6 @@
 Run ATM Test Project
 
-1. Start API
+## Start API
    
 The API was built using
 - .net 9 sdk
@@ -14,7 +14,7 @@ dotnet run --urls "http://localhost:5056"
 
 This shoud start the API on http://localhost:5056
 
-2. Start client
+## Start client
    
 The client app was built using
 - Node v24.11.1
